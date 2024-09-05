@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: if9t67kha-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/if9t67kha-go-gitops
